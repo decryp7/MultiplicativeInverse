@@ -3,7 +3,7 @@
 // Author      : Teo Kok Yong 3562967
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Euclidean Algoritium
+// Description : Euclidean Algorithm
 //============================================================================
 
 #include <iostream>
